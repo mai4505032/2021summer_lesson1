@@ -1,3 +1,5 @@
+#Date: July 7
+
 # 2021summer_lesson1
 ## 早上:
 1. Install VPN + vscode or VPN + ubuntu + WSL + vscode \
